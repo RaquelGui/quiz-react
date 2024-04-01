@@ -56,7 +56,6 @@ Este projeto consiste em um aplicativo de **quiz interativo** que permite aos us
 - context/: Contém o contexto React utilizado para gerenciar o estado do quiz.
 - data/: Contém os dados das perguntas em formato JSON.
 - App.jsx: Arquivo principal que define a estrutura do aplicativo.
-- public/: Contém arquivos públicos, como o arquivo HTML principal.
 
 ## Contribuição
 Contribuições são bem-vindas! 
