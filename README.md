@@ -1,11 +1,12 @@
 # Quiz App em React
 
-    -Este é um aplicativo de quiz desenvolvido em React, onde os usuários podem testar seus conhecimentos em programação respondendo a uma série de perguntas.
+Este é um aplicativo de quiz desenvolvido em React, onde os usuários podem testar seus conhecimentos em programação respondendo a uma série de perguntas.
 O projeto foi desenvolvido em Formação Front-end na Udemy.
 
 ## Visão Geral
 
-    -Este projeto consiste em um aplicativo de **quiz interativo** que permite aos usuários escolherem uma categoria de perguntas de programação e responderem a uma série de perguntas. O aplicativo exibe uma mensagem de boas-vindas, permite que os usuários escolham uma categoria de perguntas, exibe perguntas uma por uma, fornece dicas e opções para remover uma opção incorreta, e exibe a pontuação final do usuário após completar todas as perguntas.
+Este projeto consiste em um aplicativo de **quiz interativo** que permite aos usuários escolherem uma categoria de perguntas de programação e responderem a uma série de perguntas. O aplicativo exibe uma mensagem de boas-vindas, permite que os usuários escolham uma categoria de perguntas, exibe perguntas uma por uma, fornece dicas e opções para remover uma opção incorreta, e exibe a pontuação final do usuário após completar todas as perguntas.
+    
 
 ## Funcionalidades Técnicas:
 
