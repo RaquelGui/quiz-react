@@ -7,8 +7,8 @@ O projeto foi desenvolvido em Formação Front-end na Udemy.
 
 Este projeto consiste em um aplicativo de **quiz interativo** que permite aos usuários escolherem uma categoria de perguntas de programação e responderem a uma série de perguntas. O aplicativo exibe uma mensagem de boas-vindas, permite que os usuários escolham uma categoria de perguntas, exibe perguntas uma por uma, fornece dicas e opções para remover uma opção incorreta, e exibe a pontuação final do usuário após completar todas as perguntas.
 
-# Vídeo do projeto:
-![](video/Quiz%20App.mp4)
+# Imagem do projeto:
+![](QuizApp.gif)
 
 ## Funcionalidades Técnicas:
 
